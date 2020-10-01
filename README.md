@@ -9,3 +9,8 @@ I worked 6 years with Delphi development and 4 years in back-end Java developmen
 I was working with Python 2.2 and 3.4 development around 2 year on projects for fuel station systems but now I'm studing Web development with Node.JS and ReactJS/Native.
 
 Nevertheless, I have been currently studying web and mobile development with NodeJs, React, React Native, CSS, HTML, aiming to be a full stack developer. 
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rafaelkorz)
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-korz-60105537/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rafaelkorz/) 
