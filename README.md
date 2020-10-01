@@ -14,4 +14,5 @@ Nevertheless, I have been currently studying web and mobile development with Nod
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-korz-60105537/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rafaelkorz/) 
-[<img src = "https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"> rafael.korz@gmail.com]
+[<img src = "https://img.shields.io/badge/-rafael.korz@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.korz@gmail.com>]
+
