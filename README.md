@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Front End Engineer
+
 ## Stats
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rafaelkorz)
 
