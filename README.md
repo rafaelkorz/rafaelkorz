@@ -15,5 +15,8 @@ Nevertheless, I have been currently studying web and mobile development with Nod
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-korz-60105537/) 
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rafaelkorz/) 
 
+## Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sartorileonardo&langs_count=10&include_all_commits&count_private=true)](https://github.com/rafaelkorz/github-readme-stats)
+
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/rafaelkorz)](https://github.com/rafaelkorz)
 
