@@ -6,10 +6,11 @@ Bachelor in Information System and Technical in software development, over 10 ye
 
 I worked 6 years with Delphi development and 4 years in back-end Java development for health care systems in the billing area and with industrial manufacturing systems.
 
-I was working with Python 2.2 and 3.4 development around 2 year on projects for fuel station systems but now I'm studing Web development with Node.JS and ReactJS/Native.
+I was working with Python 2.2 and 3.4 development around 2 year on projects for fuel station and now I'm working with AngularJS and java.
 
-Nevertheless, I have been currently studying web and mobile development with NodeJs, React, React Native, CSS, HTML, aiming to be a full stack developer. 
+I'm currently a full stack developer and my focus is to be a front end react developer.
 
+## Stats
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rafaelkorz)
 
 ## Top Languages:
