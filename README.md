@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Rafael Korz and I'm a Front End Engineer
+### My name is Rafael Korz and I'm a FullStack Engineer
 
 ## Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkorz&langs_count=8)](https://github.com/rafaelkorz/github-readme-stats)
